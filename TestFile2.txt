@@ -1,2 +1,2 @@
-Kasi file 2  for testing inseterd from VI editor
-
+this is 2nd file that edited
+1 deleted
